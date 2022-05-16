@@ -1,0 +1,6 @@
+Isauro	ferro	Abuelo M	M	1940-03-25	2002-09-14
+Angelica	mur	Abuela M	F	1942-02-14	2019-02-14
+Manuel	Pico	Abuelo p	M	1941-04-25	/N
+Rosa	Cristancho	Abuela p	F	1943-12-06	2007-05-06
+Rocio	Ferro	Madre	F	1969-06-13	/N
+Manuel	Pico	Padre	M	1965-08-15	/N
